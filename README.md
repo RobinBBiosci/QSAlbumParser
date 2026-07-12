@@ -1,4 +1,4 @@
-# QuickStatements Album & Track Parser
+# QuickStatements Album Parser (QSAP)
 > Build QuickStatements 3.0 V1 commands for Wikidata album & audio track items, populated from Discogs or Bandcamp entries.
 
 *Last updated 10 June 2026* 
